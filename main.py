@@ -1,7 +1,7 @@
 """
 Usage:
 
-python bot_generator.py <token var name> <status no.> <name> <bot=True|False>
+python main.py <token var name> <status no.> <name> <bot=True|False>
 """
 import logging
 import discord
